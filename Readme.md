@@ -1,1 +1,1 @@
-This example is obsolete. Handle the [CustomHighlightText](https://docs.devexpress.com/WindowsForms/DevExpress.XtraEditors.TextEdit.CustomHighlightText) event to highlight or custom paint strings within the control's text.
+This example is obsolete. Handle the [CustomHighlightText](https://docs.devexpress.com/WindowsForms/DevExpress.XtraEditors.TextEdit.CustomHighlightText) event to highlight or custom paint strings within a TextEdit (or its descendant).
